@@ -1,0 +1,182 @@
+# I do my best to catch this links from Web.
+# Please send me your feedback
+# to optimise this list.
+# Date June 2021
+# ..............
+# testarea for unknown objects - please send me your opinion
+x1.c.lencr.org
+crl.globalsign.net
+crl.identrust.com
+evoke-windowsservices-tas.msedge.net
+arc.msn.com
+ris.api.iris.microsoft.com
+v10.events.data.microsoft.com
+d2nxq2uap88usk.cloudfront.net
+graph.facebook.com
+# BLOCK_tattle_to_Microsoft
+^a-\d*\.a-msedge\.net$
+^cs\d*\.wpc\.v0cdn\.net$
+a.ads1.msn.com
+a.ads2.msn.com
+ad.doubleclick.net
+adnexus.net
+adnxs.com
+ads.msn.com
+ads1.msads.net
+ads1.msn.com
+az361816.vo.msecnd.net
+az512334.vo.msecnd.net
+choice.microsoft.com
+choice.microsoft.com.nsatc.net
+compatexchange.cloudapp.net
+corp.sts.microsoft.com
+corpext.msitadfs.glbdns2.microsoft.com
+df.telemetry.microsoft.com
+diagnostics.support.microsoft.com
+fe2.update.microsoft.com
+fe2.update.microsoft.com.akadns.net
+feedback.microsoft-hohm.com
+feedback.search.microsoft.com
+feedback.windows.com
+i1.services.social.microsoft.com
+i1.services.social.microsoft.com.nsatc.net
+oca.telemetry.microsoft.com
+oca.telemetry.microsoft.com.nsatc.net
+pre.footprintpredict.com
+preview.msn.com
+rad.msn.com
+redir.metaservices.microsoft.com
+reports.wes.df.telemetry.microsoft.com
+services.wes.df.telemetry.microsoft.com
+settings-sandbox.data.microsoft.com
+settings-win.data.microsoft.com
+sls.update.microsoft.com
+sls.update.microsoft.com.akadns.net
+sqm.df.telemetry.microsoft.com
+sqm.telemetry.microsoft.com
+sqm.telemetry.microsoft.com.nsatc.net
+statsfe1.ws.microsoft.com
+statsfe2.update.microsoft.com
+statsfe2.update.microsoft.com.akadns.net
+statsfe2.ws.microsoft.com
+survey.watson.microsoft.com
+telecommand.telemetry.microsoft.com
+telecommand.telemetry.microsoft.com.nsatc.net
+telemetry.appex.bing.net
+telemetry.microsoft.com
+telemetry.urs.microsoft.com
+vortex.data.microsoft.com
+vortex-bn2.metron.live.com
+vortex-cy2.metron.live.com
+vortex-sandbox.data.microsoft.com
+vortex-win.data.microsoft.com
+watson.live.com
+watson.microsoft.com
+watson.ppe.telemetry.microsoft.com
+watson.telemetry.microsoft.com
+watson.telemetry.microsoft.com.nsatc.net
+wes.df.telemetry.microsoft.com
+# 
+# NOTE_below_causes_issues_for_apps_using_Windows_Push_Notification_Services_such_as_live_tiles_and_onedrive
+# ^.*\.wns\.windows\.com$
+# 
+# BLOCK_updates_from_Microsoft_for_Win10_bandwidth_management
+# This_will_also_block_WinXP_and_all_later_OS_updates
+^(.*\.)?windowsupdate\.microsoft\.com$
+^(.*\.)?update\.microsoft\.com$
+^(.*\.)?windowsupdate\.com$
+^(.*\.)?dl\.delivery\.mp\.microsoft\.com$
+^download\.microsoft\.com$
+^wustat\.windows\.com$
+^ntservicepack\.microsoft\.com$
+^stats\.microsoft\.com$
+#
+#BLOCK_Apple_updates
+applednld.apple.com
+mesu.apple.com
+#
+# LISTE 2
+#
+login.live.com
+# Maps app/location services (find my device, auto night light):
+dev.virtualearth.net
+ecn.dev.virtualearth.net
+geo-prod.do.dsp.mp.microsoft.com
+t0.ssl.ak.dynamic.tiles.virtualearth.net
+t0.ssl.ak.tiles.virtualearth.net
+# Office:
+c.s-microsoft.com
+nexus.officeapps.live.com
+nexusrules.officeapps.live.com
+i.s-microsoft.com
+officeclient.microsoft.com
+outlook.office365.com
+products.office.com
+# Xbox (also used by Microsoft Store games like Minecraft):
+attestation.xboxlive.com
+cert.mgt.xboxlive.com
+def-vef.xboxlive.com
+device.auth.xboxlive.com
+eds.xboxlive.com
+help.ui.xboxlive.com
+licensing.xboxlive.com
+notify.xboxlive.com
+title.auth.xboxlive.com
+title.mgt.xboxlive.com
+www.xboxlive.com
+xbox.ipv6.microsoft.com
+xboxexperiencesprod.experimentation.xboxlive.com
+xflight.xboxlive.com
+xkms.xbolive.com
+xsts.auth.xboxlive.com
+# Windows Updates/Microsoft Store (app updates):
+ctldl.windowsupdate.com
+displaycatalog.mp.microsoft.com
+dl.delivery.mp.microsoft.com
+sls.update.microsoft.com
+# Network connectivity:
+msftncsi.com
+dns.msftncsi.com
+ipv6.msftncsi.com
+www.msftncsi.com
+# Miscellaneous:
+answers.microsoft.com
+support.microsoft.com
+settings-win.data.microsoft.com
+g.live.com
+#
+# added 200820
+#
+# 
+windows.policies.live.net
+# microsoft.com
+geover.prod.do.dsp.mp.microsoft.com
+windowsupdate.com
+akamai.net
+dellupdater.dell.com
+akamaiedge.net
+e673.dsce9.akamaiedge.net
+firefoxusercontent.com
+www.msftconnecttest.com
+# apple trash
+init.push.apple.com
+api-glb.smoot.apple.com
+fmip.fe.apple-dns.net
+apple-dns.net
+gateway.fe.apple-dns.net
+
+#
+# added 081120
+#
+# official microsoft telemetry list
+telemetry.microsoft.com
+events.data.microsoft.com
+vortex-win.data.microsoft.com
+watson.telemetry.microsoft.com
+watson.microsoft.com
+umwatsonc.telemetry.microsoft.com
+blob.core.windows.net
+login.live.com
+oca.microsoft.com
+settings-win.data.microsoft.com
+ds.download.windowsupdate.com
